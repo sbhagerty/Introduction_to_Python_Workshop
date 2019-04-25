@@ -1,6 +1,6 @@
 # Introduction_to_Python_Workshop
 
-This repository has the jupyter notebooks used for Brandeis Library's Introduction to Python workshops, these workshops cover basics in python programming and assume no previous programming experience. Each lesson has two notebook versions, one for the workshop which has incomplete code boxes meant to be filled during hte workshop and a completed version containing all answers.  
+This repository has the jupyter notebooks used for Brandeis Library's Introduction to Python workshops, these workshops cover basics in python programming and assume no previous programming experience. Each lesson has two notebook versions, one for the workshop which has incomplete code boxes for participants to practice the material and a completed version containing all answers.  
 
 #### Part 1: Covers Variables, Data Types, Lists and For Loops
 <b>Workshop Notebook: [Introduction to Python: Part 1](Intro_to_Python_Part1.ipynb)</b>
