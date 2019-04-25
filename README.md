@@ -4,9 +4,7 @@ This repository has the jupyter notebooks used for Brandeis Library's Introducti
 
 #### Part 1: Covers Variables, Data Types, Lists and For Loops
 <b>Workshop Notebook: [Introduction to Python: Part 1](Intro_to_Python_Part1.ipynb)</b>
-Click the binder button to launch the notebook:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbhagerty/Introduction_to_Python_Workshop/blob/master/Intro_to_Python_Part1.ipynb/master)
 
 <b>Completed Notebook: [Introduction to Python: Part 1](Intro_to_Python_Part1-COMPLETE.ipynb)</b>
-Click the binder button to launch the notebook:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbhagerty/Introduction_to_Python_Workshop/blob/master/Intro_to_Python_Part1-COMPLETE.ipynb/master)
