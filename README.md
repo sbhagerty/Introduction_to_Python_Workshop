@@ -6,5 +6,5 @@ This repository has the jupyter notebooks used for Brandeis Library's Introducti
 <b>Workshop Notebook: [Introduction to Python: Part 1](Intro_to_Python_Part1.ipynb)</b>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbhagerty/Introduction_to_Python_Workshop/blob/master/Intro_to_Python_Part1.ipynb/master)
 
-<b>Completed Notebook: [Introduction to Python: Part 1](Intro_to_Python_Part1-COMPLETE.ipynb)</b>
+<b>Completed Notebook: [Completed: Part 1](Intro_to_Python_Part1-COMPLETE.ipynb)</b>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbhagerty/Introduction_to_Python_Workshop/blob/master/Intro_to_Python_Part1-COMPLETE.ipynb/master)
