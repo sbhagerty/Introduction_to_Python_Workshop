@@ -10,3 +10,10 @@ Workshop Notebook: [Introduction to Python: Part 1](Intro_to_Python_Part1.ipynb)
 Completed Notebook: [Completed: Part 1](Intro_to_Python_Part1-COMPLETE.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbhagerty/Introduction_to_Python_Workshop/master?filepath=Intro_to_Python_Part1-COMPLETE.ipynb)
 
+#### Part 2: Cover Booleans, If/Else statements, and Writing Functions
+
+Workshop Notebook: [Introduction to Python: Part 2](Intro_to_Python_Part2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbhagerty/Introduction_to_Python_Workshop/master?filepath=Intro_to_Python_Part2.ipynb)
+
+Completed Notebook: [Completed: Part 2](Intro_to_Python_Part2_COMPLETED.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbhagerty/Introduction_to_Python_Workshop/master?filepath=Intro_to_Python_Part2_Completed.ipynb)
